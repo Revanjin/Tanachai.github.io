@@ -572,7 +572,7 @@ span.border.one:after {
     -o-transition: all 1s ease-out;
     -ms-transition: all 1s ease-out;
     transition: all 1s ease-out;
-}
+}/*
 .about-right:hover, .about-right:active {
     float: left;
     padding: 0;
@@ -583,13 +583,13 @@ span.border.one:after {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -ms-background-size: cover;
-    /*Transition*/
+    !*Transition*!
     -webkit-transition: all 1s ease-in;
     -moz-transition: all 1s ease-in;
     -o-transition: all 1s ease-in;
     -ms-transition: all 1s ease-in;
     transition: all 1s ease-in;
-}
+}*/
 /*-- services --*/
 .service-head, .text-center h2 {
     color: #eee
