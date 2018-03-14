@@ -573,7 +573,7 @@ span.border.one:after {
     -ms-transition: all 1s ease-out;
     transition: all 1s ease-out;
 }
-.about-right:hover {
+.about-right:hover, .about-right:active {
     float: left;
     padding: 0;
     background: url(../images/pola11.jpg) no-repeat 0px 0px;
